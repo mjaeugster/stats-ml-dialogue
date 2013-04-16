@@ -1,0 +1,16 @@
+
+Statistician meets ... 
+  - Machine Learner
+  - "Learning from Data" Community
+  - ?
+
+
+Clashes:
+  - Nonparametric methods:
+    - distribution free vs. nonfixed structure of a model
+
+ - Probablistic model definition:
+   - DAG in a graphical model implies the complete description of a
+     probabilistic model
+
+
