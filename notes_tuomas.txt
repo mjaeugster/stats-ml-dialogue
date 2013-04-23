@@ -1,0 +1,4 @@
+* Discussions between statistician and machine learner
+
+*ML*: I will model the data so that I can describe all such data within a single framework.
+*S*: But if you only model the data, how can you be sure your method generalises to other similar problems? I rather model the phenomenon. This will automatically model the data as well.
