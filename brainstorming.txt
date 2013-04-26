@@ -2,15 +2,22 @@
 Statistician meets ... 
   - Machine Learner
   - "Learning from Data" Community
-  - ?
+  - 'Statistician's machine learning'
 
 
 Clashes:
-  - Nonparametric methods:
-    - distribution free vs. nonfixed structure of a model
+ - Nonparametric methods:
+   - distribution free vs. nonfixed structure of a model
+   - Gaussian models often 'non-parametric': they are maximum entropy distributions (as in least information), but still parametric distributions
 
  - Probablistic model definition:
    - DAG in a graphical model implies the complete description of a
      probabilistic model
 
+ - prediction vs description:
+   - ML: prediction more important
+   - statistician: interpretation more important
 
+Agreements:
+ - uncertainty:
+   - must be acknowledged
